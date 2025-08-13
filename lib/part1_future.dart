@@ -1,5 +1,3 @@
-// example.dart
-
 Future<String> delayedMessage() {
   return Future.delayed(
     const Duration(seconds: 2),
